@@ -3,8 +3,8 @@ Welcome to SmartBill Connect! This is an AI-powered web application that allows 
 
 **Features 🌟**
 
-- **User Authentication**: Secure login/signup with password hashing.
-- **Phone Bill Upload**: Support for PDF file uploads to extract bill data.
+-**User Authentication**: Secure login/signup with password hashing.
+-**Phone Bill Upload**: Support for PDF file uploads to extract bill data.
 - **AI-Powered Summary**: Summarizes the uploaded phone bill using the Gemini AI model.
 - **Personalized Recommendations**: Provides actionable advice on how users can optimize their phone plans.
 - **Simple Interface**: User-friendly web interface built with Streamlit.
