@@ -101,8 +101,8 @@ MIT License
 
 **Acknowledgments 👏**
 
-- **Google Gemini AI** for the bill summarization.
-- **Streamlit** for the awesome web framework.
-- **Replit AI** for intelligent integration
-- **PyMuPDF** for the PDF text extraction.
-- All contributors and users of this project.
+- **Google Gemini AI** for the bill summarization.
+- **Streamlit** for the awesome web framework.
+- **Replit AI** for intelligent integration
+- **PyMuPDF** for the PDF text extraction.
+- All contributors and users of this project.
