@@ -3,18 +3,18 @@ Welcome to SmartBill Connect! This is an AI-powered web application that allows 
 
 **Features 🌟**
 
-• **User Authentication**: Secure login/signup with password hashing.
-• **Phone Bill Upload**: Support for PDF file uploads to extract bill data.
-• **AI-Powered Summary**: Summarizes the uploaded phone bill using the Gemini AI model.
-• **Personalized Recommendations**: Provides actionable advice on how users can optimize their phone plans.
-• **Simple Interface**: User-friendly web interface built with Streamlit.
-• **Secure Password Storage**: Passwords are securely hashed for authentication.
+- **User Authentication**: Secure login/signup with password hashing.
+- **Phone Bill Upload**: Support for PDF file uploads to extract bill data.
+- **AI-Powered Summary**: Summarizes the uploaded phone bill using the Gemini AI model.
+- **Personalized Recommendations**: Provides actionable advice on how users can optimize their phone plans.
+- **Simple Interface**: User-friendly web interface built with Streamlit.
+- **Secure Password Storage**: Passwords are securely hashed for authentication.
 
 **Prerequisites 📋**
 
-• Python 3.9 or higher
-• A **Gemini API key** (for AI-based summarization)
-• Internet connection
+- Python 3.9 or higher
+- A **Gemini API key** (for AI-based summarization)
+- Internet connection
 
 **Setup Instructions 🚀**
 
@@ -80,16 +80,16 @@ On **macOS/Linux**:
 
 **Security Notes 🔒**
 
-• Passwords are securely hashed using SHA-256.
-• Never share your API key publicly.
-• Keep your .env file private to ensure API key security.
+- Passwords are securely hashed using SHA-256.
+- Never share your API key publicly.
+- Keep your .env file private to ensure API key security.
 
 **Troubleshooting 🔧**
 
-• If you encounter API errors, check that your **Gemini API key** is correctly set in the .env file.
-• Ensure all dependencies are installed correctly.
-• Verify that your uploaded bill is in **PDF format**.
-• Confirm that you have a stable internet connection.
+- If you encounter API errors, check that your **Gemini API key** is correctly set in the .env file.
+- Ensure all dependencies are installed correctly.
+- Verify that your uploaded bill is in **PDF format**.
+- Confirm that you have a stable internet connection.
 
 **Contributing 🤝**
 
@@ -101,8 +101,8 @@ MIT License
 
 **Acknowledgments 👏**
 
-• **Google Gemini AI** for the bill summarization.
-• **Streamlit** for the awesome web framework.
-• **Replit AI** for intelligent integration
-• **PyMuPDF** for the PDF text extraction.
-• All contributors and users of this project.
+- **Google Gemini AI** for the bill summarization.
+- **Streamlit** for the awesome web framework.
+- **Replit AI** for intelligent integration
+- **PyMuPDF** for the PDF text extraction.
+- All contributors and users of this project.
